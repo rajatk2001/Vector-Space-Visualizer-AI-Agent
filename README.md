@@ -1,3 +1,19 @@
+## 📖 Project Idea
+
+This project started as a way to make linear algebra less abstract and more *visible*.  
+It combines two main parts:
+
+### Vector & Matrix Visualizer  
+- Plot vectors in 3D  
+- Explore spans of lines and planes  
+- Check independence  
+- Play with linear combinations  
+
+The main objective of my project is visualize vector s[ace of more than three Dimension.
+###  Interactive Agent  
+A simple conversational math assistant built with **LangChain**.  
+Instead of writing out NumPy code, you can just ask questions like:  
+
 
 
 ##  Features
