@@ -9,10 +9,13 @@ It combines two main parts:
 - Check independence  
 - Play with linear combinations  
 
-The main objective of my project is visualize vector s[ace of more than three Dimension.
+The main objective of my project is visualize vector space of more than three Dimension.
 ###  Interactive Agent  
 A simple conversational math assistant built with **LangChain**.  
 Instead of writing out NumPy code, you can just ask questions like:  
+“What’s the determinant of [[1,2],[3,4]]?” 
+or
+“Cross product of [1,0,0] and [0,1,0]”
 
 
 
